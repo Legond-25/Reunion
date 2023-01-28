@@ -1,0 +1,112 @@
+[
+  {
+    "full_name": "User 1",
+    "email": "user_1@gmail.com",
+    "profile_picture": "user-1.jpg",
+    "counts": {
+      "followed_by": 3,
+      "follows": 5
+    },
+    "password": "$2a$12$Zx3KJ4BOJ77FHNGYo6dYd.hZgfuEAJw1gC.gDU7AX56MWV5voHkEe",
+    "active": true
+  },
+  {
+    "full_name": "User 2",
+    "email": "user_2@gmail.com",
+    "profile_picture": "user-2.jpg",
+    "counts": {
+      "followed_by": 84,
+      "follows": 75
+    },
+    "password": "$2a$12$jPHGUaeozrE5cRlM/wnu9.qFEpZ1pjXKY91Sa92GGg5RkjMhMSp/C",
+    "active": true
+  },
+  {
+    "full_name": "User 3",
+    "email": "user_3@gmail.com",
+    "profile_picture": "user-3.jpg",
+    "counts": {
+      "followed_by": 561,
+      "follows": 123
+    },
+    "password": "$2a$12$zhE0wpH9BO0bOHVMxBhFHeV9OErVdCnS9nezom.j7q/8DlaHFrE8i",
+    "active": true
+  },
+  {
+    "full_name": "User 4",
+    "email": "user_4@gmail.com",
+    "profile_picture": "user-4.jpg",
+    "counts": {
+      "followed_by": 245,
+      "follows": 697
+    },
+    "password": "$2a$12$HUCBohgwLxThXgVtwb.M8OHi0opZNkyFxVjkX8i3parL15Z3fV6l2",
+    "active": true
+  },
+  {
+    "full_name": "User 5",
+    "email": "user_5@gmail.com",
+    "profile_picture": "user-5.jpg",
+    "counts": {
+      "followed_by": 784,
+      "follows": 3621
+    },
+    "password": "$2a$12$fVyF4yd6Tg2js2Mm.X7q3egu3OWNTpPzq/er7bXFnZ8g45aXpoSWq",
+    "active": true
+  },
+  {
+    "full_name": "User 6",
+    "email": "user_6@gmail.com",
+    "profile_picture": "user-6.jpg",
+    "counts": {
+      "followed_by": 78,
+      "follows": 965
+    },
+    "password": "$2a$12$hDSYroykK9L4QaEsUG4nMOuRQTgWXt9HzEFqqKSiWTTSjfFXl0yaW",
+    "active": true
+  },
+  {
+    "full_name": "User 7",
+    "email": "user_7@gmail.com",
+    "profile_picture": "user-7.jpg",
+    "counts": {
+      "followed_by": 1234,
+      "follows": 5641
+    },
+    "password": "$2a$12$cGWYNGX6pNEuFT9FxxD2Be8BzAX/ZMZQYjViD8GqZs8FCQWj8Q1tm",
+    "active": true
+  },
+  {
+    "full_name": "User 8",
+    "email": "user_8@gmail.com",
+    "profile_picture": "user-8.jpg",
+    "counts": {
+      "followed_by": 754,
+      "follows": 24
+    },
+    "password": "$2a$12$j3zSr5yQ7YPe6VVzVYnVI.yD0PcwPzsJjs.7wXwgUW1Nx5644xPOK",
+    "active": true
+  },
+  {
+    "full_name": "User 9",
+    "email": "user_9@gmail.com",
+    "profile_picture": "user-9.jpg",
+    "counts": {
+      "followed_by": 347,
+      "follows": 124
+    },
+    "password": "$2a$12$jyk1KUjCTBqsCNLCsnaJlefzuQkZPuXPF4gUGIE4HPO/rwH.Ex.em",
+    "active": true
+  },
+  {
+    "full_name": "User 10",
+    "email": "user_10@gmail.com",
+    "profile_picture": "user-10.jpg",
+    "counts": {
+      "followed_by": 35,
+      "follows": 7894
+    },
+    "password": "$2a$12$pf5C8uwmeVqpKFhjqIC7GOZrbZHFdyAMruupR.VxFz4q97ZVRNMK2",
+    "active": true
+  }
+]
